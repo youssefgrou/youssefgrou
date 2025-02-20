@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @youssefgrouate
-- 👀 I’m interested in programmation
-- 🌱 I’m currently learning language HTML & CSS & JS ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Youssef Guerouat  
 
+💻 **About Me**  
+- 👀 Passionate about programming and web development.  
+- 🌱 Currently learning **Laravel, Tailwindcss, JavaScript**, and expanding my skills in **React and MySQL**.  
+- 💡 Always eager to learn new technologies and improve my coding skills.  
 
-<!---
-youssefgrou/youssefgrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 **Looking to Collaborate On**  
+- Web development projects  
+- Open-source contributions  
+- Innovative ideas related to **AI and automation**  
+
+📬 **How to Reach Me**  
+- 📧 Email: grouateyoussef0@gmail.com  
+- 💼 LinkedIn: youssef guerouat  
+- 📍 Based in Morocco  
+
+🚀 **Let’s connect and build amazing projects together!**  
